@@ -1,2 +1,2 @@
 # Google-gmail-page
-Google gmail page
+A clone of Google gmail page
