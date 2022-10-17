@@ -1,0 +1,162 @@
+*{
+	background-color:rgb(192,192,192);
+}
+
+
+#blue{
+	color:blue;
+}
+
+
+#red{
+	color:red;
+}
+
+
+#yellow{
+	color:orange;
+}
+
+
+#green{
+	color:green;
+}
+
+
+#heading1{
+	margin-top:15px;
+	margin-left:10px;
+}
+
+
+#heading1 a:link{
+	color:white;
+	text-decoration:none;
+}
+
+
+#heading1 a:hover{
+	background-color:tomato;
+	text-decoration:underline;
+}
+
+
+#google{
+	font-weight:bold;
+	font-size:55px;
+}
+
+
+#signin{
+	background-color:rgb(51,102,255);
+	padding:10px;
+}
+
+
+#thebody{
+margin-left:30px;
+}
+
+
+#para1{
+	color:red;
+}
+
+
+#input1{
+	padding:10px;
+	padding-right:30px;
+}
+
+
+#input2{
+	padding:10px;
+	padding-right:18.3%;
+	padding-bottom:30px;
+}
+
+
+#para2{
+	color:blue;
+}
+
+
+#para2 a:link{
+	color:blue;
+	text-decoration:none;
+}
+
+
+#para2 a:hover{
+	text-decoration:underline;
+	color:red;
+}
+
+
+#input3{
+	padding-right:18.3%;
+	padding-bottom:20px;
+}
+
+
+#zone{
+	padding-bottom:20px;
+}
+
+
+#input4{
+	padding-right:17.8%;
+	padding-bottom:21px;
+}
+
+
+#continue{
+	margin-left:11%;
+	background-color:rgb(51,51,153);
+	padding:15px;
+	padding-left:11.2%;
+	margin-right:71.3%;
+	margin-left:0.3px;
+	color:white;
+	font-size:20px;
+	border:2px dashed green;
+}
+
+
+#continue a:link{
+text-decoration:none;
+color:white;
+background-color:rgb(51,51,153);
+}
+
+
+#continue a:hover{
+	text-decoration:underline;
+	color:tomato;
+}
+
+
+#learnmore{
+	margin-left:20px;
+}
+
+
+#learn:link{
+text-decoration:none;
+}
+
+
+#learn:hover{
+	text-decoration:underline;
+}
+
+
+#thefooter{
+	border-top:1px solid black;
+}
+
+
+
+
+
+
